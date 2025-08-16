@@ -1,0 +1,218 @@
+[
+  {
+    "id": "f4b392f4-1f2f-4e16-8150-8c67b46c1b11",
+    "name": "PA-22 & 4th St (Easton)",
+    "latitude": 40.6944,
+    "longitude": -75.2075,
+    "area": "Lehigh Valley",
+    "isOnline": "true",
+    "imageUrl": "http://www.dot35.state.pa.us/public/Districts/District5/WebCams/CAM05020CCTVNo21.jpg"
+  },
+  {
+    "id": "6b5f4a42-5cd8-4953-b7cf-2298d03d38a6",
+    "name": "PA-33 & PA-248",
+    "latitude": 40.7178,
+    "longitude": -75.2885,
+    "area": "Lehigh Valley",
+    "isOnline": "true",
+    "imageUrl": "http://www.dot35.state.pa.us/public/Districts/District5/WebCams/CAM05017CCTVNo18.jpg"
+  },
+  {
+    "id": "7b47c7df-cbb5-4e3a-aef0-c69e2438fdb9",
+    "name": "PA-22 & PA-191",
+    "latitude": 40.6787,
+    "longitude": -75.342,
+    "area": "Lehigh Valley",
+    "isOnline": "true",
+    "imageUrl": "http://www.dot35.state.pa.us/public/Districts/District5/WebCams/CAM05008CCTVNo9.jpg"
+  },
+  {
+    "id": "8d5318b4-3a71-49d7-9e8c-7ddab168fb95",
+    "name": "PA-22 & PA-512",
+    "latitude": 40.6629,
+    "longitude": -75.3842,
+    "area": "Lehigh Valley",
+    "isOnline": "true",
+    "imageUrl": "http://www.dot35.state.pa.us/public/Districts/District5/WebCams/CAM05004CCTVNo4.jpg"
+  },
+  {
+    "id": "1c1e1a5a-55f2-476f-a274-d09f0170d5fb",
+    "name": "PA-22 & Schoenersville",
+    "latitude": 40.6498,
+    "longitude": -75.4104,
+    "area": "Lehigh Valley",
+    "isOnline": "true",
+    "imageUrl": "http://www.dot35.state.pa.us/public/Districts/District5/WebCams/CAM05007CCTVNo8.jpg"
+  },
+  {
+    "id": "29a11c43-7f58-46c4-a90a-29d3146ad815",
+    "name": "PA-22 & Airport Rd",
+    "latitude": 40.6428,
+    "longitude": -75.4318,
+    "area": "Lehigh Valley",
+    "isOnline": "true",
+    "imageUrl": "http://www.dot35.state.pa.us/public/Districts/District5/WebCams/CAM05003CCTVNo3.jpg"
+  },
+  {
+    "id": "d72ddde6-9b4c-4b4c-8e60-38aa8e29cb52",
+    "name": "PA-22 & Fullerton Ave",
+    "latitude": 40.6306,
+    "longitude": -75.4699,
+    "area": "Lehigh Valley",
+    "isOnline": "true",
+    "imageUrl": "http://www.dot35.state.pa.us/public/Districts/District5/WebCams/CAM05006CCTVNo6.jpg"
+  },
+  {
+    "id": "c87b0480-3588-4f35-95e2-0bdf8de6bb18",
+    "name": "PA-22 & PA-145",
+    "latitude": 40.6268,
+    "longitude": -75.4832,
+    "area": "Lehigh Valley",
+    "isOnline": "true",
+    "imageUrl": "http://www.dot35.state.pa.us/public/Districts/District5/WebCams/CAM05001CCTVNo1.jpg"
+  },
+  {
+    "id": "de8a3bfb-59b3-47cd-b94b-47b5a8c93749",
+    "name": "PA-22 & 15th St",
+    "latitude": 40.6183,
+    "longitude": -75.5012,
+    "area": "Lehigh Valley",
+    "isOnline": "true",
+    "imageUrl": "http://www.dot35.state.pa.us/public/Districts/District5/WebCams/CAM05011CCTVNo12.jpg"
+  },
+  {
+    "id": "aaf82cb7-f5a1-4416-9d57-3c441e7507d4",
+    "name": "PA-22 & Cedar Crest Blvd",
+    "latitude": 40.6099,
+    "longitude": -75.5316,
+    "area": "Lehigh Valley",
+    "isOnline": "true",
+    "imageUrl": "http://www.dot35.state.pa.us/public/Districts/District5/WebCams/CAM05005CCTVNo5.jpg"
+  },
+  {
+    "id": "f6065f87-ec60-4f37-a6f6-7ffde75b3b94",
+    "name": "PA-22 & PA-309",
+    "latitude": 40.5997,
+    "longitude": -75.5598,
+    "area": "Lehigh Valley",
+    "isOnline": "true",
+    "imageUrl": "http://www.dot35.state.pa.us/public/Districts/District5/WebCams/CAM05009CCTVNo10.jpg"
+  },
+  {
+    "id": "4ddbc0a6-48a2-44b2-8513-0c18eaf4c37d",
+    "name": "PA-100 & PA-222",
+    "latitude": 40.5588,
+    "longitude": -75.6085,
+    "area": "Lehigh Valley",
+    "isOnline": "true",
+    "imageUrl": "http://www.dot35.state.pa.us/public/Districts/District5/WebCams/CAM05023CCTVNo24.jpg"
+  },
+  {
+    "id": "ce21c509-1382-45ee-9f4a-87df749369a7",
+    "name": "I-78 & PA-33",
+    "latitude": 40.6385,
+    "longitude": -75.2738,
+    "area": "Lehigh Valley",
+    "isOnline": "true",
+    "imageUrl": "http://www.dot35.state.pa.us/public/Districts/District5/WebCams/CAM05019CCTVNo20.jpg"
+  },
+  {
+    "id": "c63d2f27-14eb-4a1c-bd93-f5a1b1888ee4",
+    "name": "I-78 & PA-412",
+    "latitude": 40.596,
+    "longitude": -75.3397,
+    "area": "Lehigh Valley",
+    "isOnline": "true",
+    "imageUrl": "http://www.dot35.state.pa.us/public/Districts/District5/WebCams/CAM05021CCTVNo22.jpg"
+  },
+  {
+    "id": "d0c703a5-cb3c-42a3-b1ff-13a9a04fa11c",
+    "name": "I-78 & Lehigh St",
+    "latitude": 40.5648,
+    "longitude": -75.4844,
+    "area": "Lehigh Valley",
+    "isOnline": "true",
+    "imageUrl": "http://www.dot35.state.pa.us/public/Districts/District5/WebCams/CAM05022CCTVNo23.jpg"
+  },
+  {
+    "id": "e1ddbf9b-3ef5-48d4-8fa2-4e546b739849",
+    "name": "I-78 & Cedar Crest Blvd",
+    "latitude": 40.5681,
+    "longitude": -75.5184,
+    "area": "Lehigh Valley",
+    "isOnline": "true",
+    "imageUrl": "http://www.dot35.state.pa.us/public/Districts/District5/WebCams/CAM05013CCTVNo14.jpg"
+  },
+  {
+    "id": "905f1e8d-619e-4f74-9c69-2f01a50b1ac9",
+    "name": "I-78 & PA-222",
+    "latitude": 40.5719,
+    "longitude": -75.5395,
+    "area": "Lehigh Valley",
+    "isOnline": "true",
+    "imageUrl": "http://www.dot35.state.pa.us/public/Districts/District5/WebCams/CAM05016CCTVNo17.jpg"
+  },
+  {
+    "id": "d29f0b6b-52a3-41da-88a0-d2b47acdb2ef",
+    "name": "I-78 & PA-22",
+    "latitude": 40.5896,
+    "longitude": -75.5889,
+    "area": "Lehigh Valley",
+    "isOnline": "true",
+    "imageUrl": "http://www.dot35.state.pa.us/public/Districts/District5/WebCams/CAM05015CCTVNo16.jpg"
+  },
+  {
+    "id": "aec1c879-7d92-44c3-bae2-053f651a4f19",
+    "name": "I-80 & PA-209",
+    "latitude": 40.9985,
+    "longitude": -75.1548,
+    "area": "Lehigh Valley",
+    "isOnline": "true",
+    "imageUrl": "http://www.dot35.state.pa.us/public/Districts/District5/WebCams/CAM05033CCTVNo34.jpg"
+  },
+  {
+    "id": "e33c0410-48ed-4fc2-930c-166cc58f1f35",
+    "name": "I-80 at Scotrun",
+    "latitude": 41.0445,
+    "longitude": -75.3142,
+    "area": "Lehigh Valley",
+    "isOnline": "true",
+    "imageUrl": "http://www.dot35.state.pa.us/public/Districts/District5/WebCams/CAM05039CCTV39.jpg"
+  },
+  {
+    "id": "dc2c9a67-3ed8-402d-900e-f32504611797",
+    "name": "I-80 at Whitehaven",
+    "latitude": 41.0669,
+    "longitude": -75.7012,
+    "area": "Lehigh Valley",
+    "isOnline": "true",
+    "imageUrl": "http://www.dot35.state.pa.us/public/Districts/District5/WebCams/CAM05032CCTVNo33.jpg"
+  },
+  {
+    "id": "1b038d9e-9045-4406-b220-18cf8a2e4e47",
+    "name": "I-81 & PA-61",
+    "latitude": 40.773,
+    "longitude": -76.225,
+    "area": "Lehigh Valley",
+    "isOnline": "true",
+    "imageUrl": "http://www.dot35.state.pa.us/public/Districts/District5/WebCams/CAM05031CCTVNo32.jpg"
+  },
+  {
+    "id": "1a1e8b87-4a73-4c7b-8c34-3a6a4201f49f",
+    "name": "I-81 at High Ridge Rd.",
+    "latitude": 40.735,
+    "longitude": -76.3064,
+    "area": "Lehigh Valley",
+    "isOnline": "true",
+    "imageUrl": "http://www.dot35.state.pa.us/public/Districts/District5/WebCams/CAM05030CCTVNo31.jpg"
+  },
+  {
+    "id": "f7df97c5-dc07-4c3e-b5db-f31f76563c72",
+    "name": "I-81 & PA-209",
+    "latitude": 40.6204,
+    "longitude": -76.4386,
+    "area": "Lehigh Valley",
+    "isOnline": "true",
+    "imageUrl": "http://www.dot35.state.pa.us/public/Districts/District5/WebCams/CAM05029CCTVNo30.jpg"
+  }
+]
