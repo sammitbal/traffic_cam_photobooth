@@ -214,5 +214,221 @@
     "area": "Lehigh Valley",
     "isOnline": "true",
     "imageUrl": "http://www.dot35.state.pa.us/public/Districts/District5/WebCams/CAM05029CCTVNo30.jpg"
+  },
+  {
+    "id": "7c6a2d77-28ac-4b5e-bc01-32ad781f1f77",
+    "name": "PA-22 / PA-33",
+    "latitude": 40.6827,
+    "longitude": -75.2891,
+    "area": "Lehigh Valley",
+    "isOnline": true,
+    "imageUrl": "https://stormcenter.info/traffic/penndot/CAM05010CCTVNo11.jpg"
+  },
+  {
+    "id": "c6a7a3f2-3f65-4a43-87f1-70e4a15f5cf1",
+    "name": "PA-309 / Tilghman St.",
+    "latitude": 40.59,
+    "longitude": -75.5543,
+    "area": "Lehigh Valley",
+    "isOnline": true,
+    "imageUrl": "https://stormcenter.info/traffic/penndot/CAM05012CCTVNo13.jpg"
+  },
+  {
+    "id": "bc5c2df6-624e-4de2-82a5-3c8137b9b19e",
+    "name": "I-78 / Morgan Hill Rd.",
+    "latitude": 40.6701,
+    "longitude": -75.2139,
+    "area": "Lehigh Valley",
+    "isOnline": true,
+    "imageUrl": "https://stormcenter.info/traffic/penndot/CAM05018CCTVNo19.jpg"
+  },
+  {
+    "id": "b788fdcb-2e5a-4de2-9288-07f45f7a8195",
+    "name": "US-222 / PA-100",
+    "latitude": 40.5588,
+    "longitude": -75.6085,
+    "area": "Lehigh Valley",
+    "isOnline": true,
+    "imageUrl": "https://stormcenter.info/traffic/penndot/CAM05023CCTVNo24.jpg"
+  },
+  {
+    "id": "a354e24a-5fa0-4c03-b45d-43c56cb06d91",
+    "name": "I-78 / PA-737 Exit 40",
+    "latitude": 40.5777,
+    "longitude": -75.7977,
+    "area": "Lehigh Valley",
+    "isOnline": true,
+    "imageUrl": "http://www.dot35.state.pa.us/public/Districts/District5/WebCams/CAM05024CCTVNo29.jpg"
+  },
+  {
+    "id": "bb81c0bb-3e8f-4baf-9db0-2a19f9633175",
+    "name": "I-78 / PA-143 Exit 35",
+    "latitude": 40.5773,
+    "longitude": -75.8904,
+    "area": "Lehigh Valley",
+    "isOnline": true,
+    "imageUrl": "http://www.dot35.state.pa.us/public/Districts/District5/WebCams/CAM05025CCTVNo28.jpg"
+  },
+  {
+    "id": "d1f3e64d-733c-44bc-bd40-4a4e1a2c83c5",
+    "name": "I-78 / PA-61 Exit 29",
+    "latitude": 40.55714,
+    "longitude": -75.9985,
+    "area": "Lehigh Valley",
+    "isOnline": true,
+    "imageUrl": "https://stormcenter.info/traffic/penndot/CAM05026CCTVNo27.jpg"
+  },
+  {
+    "id": "b6bb46a2-b273-46b6-bf49-d0b14c81de25",
+    "name": "I-78 / PA-183 Exit 19",
+    "latitude": 40.49937,
+    "longitude": -76.18553,
+    "area": "Lehigh Valley",
+    "isOnline": true,
+    "imageUrl": "https://stormcenter.info/traffic/penndot/CAM05027CCTVNo26.jpg"
+  },
+  {
+    "id": "17b36ff8-faec-4bbd-a2f6-7d7ab21a29a1",
+    "name": "I-78 / PA-645 Exit 10",
+    "latitude": 40.4665,
+    "longitude": -76.3399,
+    "area": "Lehigh Valley",
+    "isOnline": true,
+    "imageUrl": "https://stormcenter.info/traffic/penndot/CAM05028CCTVNo25.jpg"
+  },
+  {
+    "id": "f22d79d5-b245-4b18-bae9-301f9ec6f6a2",
+    "name": "I-80 / PA-940 Exit 277",
+    "latitude": 41.0669,
+    "longitude": -75.7012,
+    "area": "Lehigh Valley",
+    "isOnline": true,
+    "imageUrl": "https://stormcenter.info/traffic/penndot/CAM05032CCTVNo33.jpg"
+  },
+  {
+    "id": "7818d51a-2583-4a68-8143-0e8d637a07e4",
+    "name": "I-380 / PA-940 Exit 3",
+    "latitude": 41.1062,
+    "longitude": -75.3974,
+    "area": "Lehigh Valley",
+    "isOnline": true,
+    "imageUrl": "https://stormcenter.info/traffic/penndot/CAM05034CCTVNo35.jpg"
+  },
+  {
+    "id": "a24c7055-8e5d-4f86-b5b0-16f7f40b5dd1",
+    "name": "I-80 / Long Pond Rd Overpass",
+    "latitude": 41.0715,
+    "longitude": -75.4471,
+    "area": "Lehigh Valley",
+    "isOnline": true,
+    "imageUrl": "https://stormcenter.info/traffic/penndot/CAM05035CCTV40.jpg"
+  },
+  {
+    "id": "444b8c61-7c5b-40f0-bf3f-3c63d3cf08e7",
+    "name": "US-222 / PA-183",
+    "latitude": 40.3824,
+    "longitude": -75.9853,
+    "area": "Lehigh Valley",
+    "isOnline": true,
+    "imageUrl": "http://www.dot35.state.pa.us/public/Districts/District5/WebCams/CAM05038CCTV38.jpg"
+  },
+  {
+    "id": "f1549e8c-5ed2-4d54-857c-fb5f3a3c3f8d",
+    "name": "PA-12 / North 5th Street",
+    "latitude": 40.372,
+    "longitude": -75.9268,
+    "area": "Lehigh Valley",
+    "isOnline": true,
+    "imageUrl": "http://www.dot35.state.pa.us/public/Districts/District5/WebCams/CAM05050CCTV50.jpg"
+  },
+  {
+    "id": "e065c11a-3b8e-4f31-9d58-7741a01a7ef2",
+    "name": "PA-100 / Phoenixville Pike",
+    "latitude": 39.99608,
+    "longitude": -75.59391,
+    "area": "Lehigh Valley",
+    "isOnline": true,
+    "imageUrl": "https://stormcenter.info/traffic/penndot/CAM06028CM180.jpg"
+  },
+  {
+    "id": "93077a23-bf8f-4b65-bfe0-72da7722acfd",
+    "name": "PA-309 / North Wales Rd",
+    "latitude": 40.239694,
+    "longitude": -75.242612,
+    "area": "Lehigh Valley",
+    "isOnline": true,
+    "imageUrl": "https://stormcenter.info/traffic/penndot/CAM06164CM3920.jpg"
+  },
+  {
+    "id": "cb6b4a91-06d4-4c4d-aaba-2979fefbb29b",
+    "name": "PA-309 / Five Points",
+    "latitude": 40.24767,
+    "longitude": -75.24383,
+    "area": "Lehigh Valley",
+    "isOnline": true,
+    "imageUrl": "https://stormcenter.info/traffic/penndot/CAM06165CM3921.jpg"
+  },
+  {
+    "id": "6c85a5a2-fc3b-46f3-94e2-1b64690e5f0d",
+    "name": "PA-100 NB / King St.",
+    "latitude": 40.249121,
+    "longitude": -75.6611,
+    "area": "Lehigh Valley",
+    "isOnline": true,
+    "imageUrl": "https://stormcenter.info/traffic/penndot/CAM06612CM199.jpg"
+  },
+  {
+    "id": "d3d64ec3-6915-4455-bf14-34cf2b4e95ab",
+    "name": "PA-309 / US-202",
+    "latitude": 40.23552,
+    "longitude": -75.24003,
+    "area": "Lehigh Valley",
+    "isOnline": true,
+    "imageUrl": "https://stormcenter.info/traffic/penndot/CAM06163CM3919.jpg"
+  },
+  {
+    "id": "a35fbb3f-9f40-4cd7-9c30-4eb88c3de0aa",
+    "name": "US-222 / PA-724",
+    "latitude": 40.3143,
+    "longitude": -75.9973,
+    "area": "Lehigh Valley",
+    "isOnline": true,
+    "imageUrl": "https://stormcenter.info/traffic/penndot/CAM05049CCTV49.jpg"
+  },
+  {
+    "id": "76b2ef8d-2c9d-46d2-8a3c-76c453c84993",
+    "name": "US-222 and US-422/PA-12 Interchange",
+    "latitude": 40.3497,
+    "longitude": -75.9619,
+    "area": "Berks",
+    "isOnline": true,
+    "imageUrl": "http://www.dot35.state.pa.us/public/Districts/District5/WebCams/CAM05045CCTV45.jpg"
+  },
+  {
+    "id": "4b3ac246-1b8d-48b2-9491-0d7a8a4a22a7",
+    "name": "US-222 and US-422 at Penn Ave. in Wyomissing",
+    "latitude": 40.3293,
+    "longitude": -75.9781,
+    "area": "Berks",
+    "isOnline": true,
+    "imageUrl": "http://www.dot35.state.pa.us/public/Districts/District5/WebCams/CAM05047CCTV47.jpg"
+  },
+  {
+    "id": "6c7d8770-0455-4f79-91af-6a68e24301f5",
+    "name": "US-422 at Penn Ave. West Reading",
+    "latitude": 40.3355,
+    "longitude": -75.9392,
+    "area": "Berks",
+    "isOnline": true,
+    "imageUrl": "http://www.dot35.state.pa.us/public/Districts/District5/WebCams/CAM05046CCTV46.jpg"
+  },
+  {
+    "id": "2c5e8f2b-2cdb-4e8d-8626-bda34e403a7d",
+    "name": "US-422 at Lancaster Ave.",
+    "latitude": 40.3243,
+    "longitude": -75.9339,
+    "area": "Berks",
+    "isOnline": true,
+    "imageUrl": "http://www.dot35.state.pa.us/public/Districts/District5/WebCams/CAM05048CCTV48.jpg"
   }
 ]
